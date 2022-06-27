@@ -1,7 +1,6 @@
 # *Python zombie survival game*
 ---
 * ## **A fun exhilarating zombie survival game**
-# **Marie is the best girlfriend ever**
 
 I use `print` statments such as:
 ```python
