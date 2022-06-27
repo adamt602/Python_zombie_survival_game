@@ -9,3 +9,6 @@ print("welcome to zombie game")
 
 >"This is a block quote
 That can make text easier to read"
+
+## Directory
+[Zombie Class](https://github.com/adamt602/Python_zombie_survival_game/blob/main/zombie.py)
